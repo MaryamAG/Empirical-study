@@ -1,3 +1,3 @@
 Empirical Study
 
-Work
+Work.
